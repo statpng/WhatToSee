@@ -25,3 +25,8 @@ Reduced-Rank Regression (RRR)
 Some Proofs
 - Orthogonality condition: https://math.stackexchange.com/questions/4100379/condition-for-existence-of-an-orthonormal-matrix-whose-column-space-is-orthogona
 - 
+
+
+
+## Templates
+- Mississippi: https://brand.msstate.edu/assets/index.php
