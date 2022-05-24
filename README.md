@@ -9,3 +9,9 @@ For optimization,
 
 For algorithm or overall theory about statistics
 - https://www.secmem.org/blog/page/5/
+
+Mathematical Theory & Proofs
+- https://sharmaeklavya2.github.io/theoremdep/
+
+Statistical Theory & Proofs
+- https://myweb.uiowa.edu/pbreheny/7110/wiki/index.html
