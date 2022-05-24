@@ -30,3 +30,7 @@ Some Proofs
 
 ## Templates
 - Mississippi: https://brand.msstate.edu/assets/index.php
+
+
+## Lecture Notes
+- 머신러닝 강의노트 (Andrew Ng) translated by 박수진: https://wikidocs.net/book/587
