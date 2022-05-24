@@ -34,3 +34,13 @@ Some Proofs
 
 ## Lecture Notes
 - 머신러닝 강의노트 (Andrew Ng) translated by 박수진: https://wikidocs.net/book/587
+
+
+## Professors
+- Jianqing Fan: https://fan.princeton.edu/publications-general.html
+
+## Programming
+- Algorithm Problems (project Euler): https://euler.synap.co.kr/prob_list.php?pg=3
+- R vs Rcpp syntax table: https://thecoatlessprofessor.com/programming/cpp/common-operations-with-rcpparmadillo/
+- Rcpp PPT: https://privefl.github.io/R-presentation/Rcpp.html?fbclid=IwAR3KGEeqNl4npVrUkiDnDpnHNIPBmkJ5Qp9Q51ysakcLsktCaPNvdr7JeUU#1
+- 
