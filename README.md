@@ -44,3 +44,10 @@ Some Proofs
 - R vs Rcpp syntax table: https://thecoatlessprofessor.com/programming/cpp/common-operations-with-rcpparmadillo/
 - Rcpp PPT: https://privefl.github.io/R-presentation/Rcpp.html?fbclid=IwAR3KGEeqNl4npVrUkiDnDpnHNIPBmkJ5Qp9Q51ysakcLsktCaPNvdr7JeUU#1
 - 
+
+
+
+## Sites of interest
+ - [Probability, Mathematical Statistics, and Stochastic Processes](https://www.randomservices.org/)
+ - [Homepage of Christian P. Robert](https://www.ceremade.dauphine.fr/~xian/)
+ - [Lecture Video by Christian P. Robert](https://www.youtube.com/watch?v=BizPtFoyAR4)
